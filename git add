@@ -1,0 +1,7 @@
+git add 
+git pusg origin _____
+git pull origin _____
+git status ---> gives the changes
+git branch -b ____ ---> creates the branches
+git checkout ____ ---> moves to a branch
+
